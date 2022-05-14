@@ -17,8 +17,8 @@
     <img src="https://img.icons8.com/color/30/000000/javascript.png" title="javascript"/>&ensp;&ensp;
     <img src="https://img.icons8.com/color/30/000000/typescript.png" title="typescript"/>&ensp;&ensp;
     <img src="https://img.icons8.com/plasticine/30/000000/react.png" title="react"/>&ensp;&ensp;
-     <img src="https://img.icons8.com/color/30/000000/material-ui.png" title="react"/>&ensp;&ensp;
-    <img width="50px" src="./assets/next.png" title="react"/>&ensp;&ensp;
+     <img src="https://img.icons8.com/color/30/000000/material-ui.png" title="material-ui"/>&ensp;&ensp;
+    <img width="50px" src="./assets/next.png" title="nest.js"/>&ensp;&ensp;
  </div>
   
   <div>
